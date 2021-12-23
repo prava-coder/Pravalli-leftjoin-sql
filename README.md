@@ -1,0 +1,1 @@
+# Pravalli-leftjoin-sql
